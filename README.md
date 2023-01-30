@@ -1,4 +1,4 @@
-<img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width=900px/>
+<img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="900px"/>
 
 # 💫 About Me:
 🏫 I'm currently studying software development <br>💻 I'm looking to collaborate on software creating such as websites or applications (desktop/mobile) <br>✍️ I'm currently learning JavaScript and React.js <br>👨🏽‍💻 Ask me about application developing <br>😴 Fun fact - I am lazy so i will find the quickest solution to a problem regardless of how hard it is to get there <br> 
