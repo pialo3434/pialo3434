@@ -1,5 +1,5 @@
 ### 😂 Random Dev Meme
-<img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-42.gif" width="1000px"/>
+<img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-42.gif" width=100%/>
 
 # 💫 About Me:
 🏫 I'm currently studying <br>💻 I'm looking to collaborate on software creating such as websites or applications (desktop/mobile) <br>✍️ I'm currently learning JavaScript and React.js <br>👨🏽‍💻 Ask me about application developing <br>😴 Fun fact - I am lazy so i will find the quickest solution to a problem regardless of how hard it is to get there <br> 
