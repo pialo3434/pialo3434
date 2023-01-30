@@ -1,5 +1,8 @@
 <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width=900px/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=pialo3434&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🏫 I'm currently studying software development <br>💻 I'm looking to collaborate on software creating such as websites or applications (desktop/mobile) <br>✍️ I'm currently learning JavaScript and React.js <br>👨🏽‍💻 Ask me about application developing <br>😴 Fun fact - I am lazy so i will find the quickest solution to a problem regardless of how hard it is to get there <br> 
 
@@ -23,9 +26,6 @@
 
 ### 😂 Random Dev Meme
 <img src="https://i.redd.it/kkllw0ya1so31.jpg" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=pialo3434&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pccosta2001@gmail.com) 
