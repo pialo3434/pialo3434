@@ -1,8 +1,6 @@
 <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="900px"/>
 <h1>Hi, I'm pialo3434!</h1>
 
----
-
 Just a software developer 👨🏼‍💻 
 
 --
