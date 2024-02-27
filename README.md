@@ -1,8 +1,6 @@
 <h1>Hi, I'm Paulo Costa!</h1>
 
-<img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="1100px"/>
-
-<h2>Just a software developer 👨🏽‍💻</h2><br>
+<h2>About me 👨🏽‍💻</h2><br>
 
 🏫 I'm currently studying software development <br><br>💻 I'm looking to collaborate on software creating such as websites or applications (desktop/mobile) <br><br>✍️ I'm currently learning JavaScript and React.js <br><br>👨🏽‍💻 Ask me about application developing <br><br>😴 Fun fact - I am lazy so i will find the quickest solution to a problem regardless of how hard it is to get there <br><br> 
 
