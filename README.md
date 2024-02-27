@@ -39,9 +39,10 @@
 </div>
 
 
-<div style="margin-top: 20px; text-align: right;">
-    <a href="https://instagram.com/_paulo18costa_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://linkedin.com/in/paulo-costa-b65ba9188" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://discord.gg/4kbWHbt8R5" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-</div>
+<br><br><br> <!-- Adding space above badges -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_paulo18costa_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-costa-b65ba9188)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4kbWHbt8R5)
+
 
