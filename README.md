@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paulo Costa!</h1>
+<h1 style="text-align: center;">Hi, I'm Paulo Costa!</h1>
 
 🏫 I'm currently studying software development <br><br>💻 I'm looking to collaborate on software creating such as websites or applications (desktop/mobile) <br><br>✍️ I'm currently learning JavaScript and React.js <br><br>👨🏽‍💻 Ask me about application developing <br><br>😴 Fun fact - I am lazy so i will find the quickest solution to a problem regardless of how hard it is to get there <br><br> 
 
