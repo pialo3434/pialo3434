@@ -31,9 +31,12 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pialo3434&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pialo3434&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <h2>📊 GitHub Stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=pialo3434&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pialo3434&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pialo3434&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
