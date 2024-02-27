@@ -32,7 +32,7 @@
 <br><br><br> <!-- Adding space above badges -->
 
 <p align="right">
-    <a href="https://linkedin.com/in/paulo-costa-b65ba9188" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/paulo-costa-b65ba9188/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://discord.gg/4kbWHbt8R5" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
