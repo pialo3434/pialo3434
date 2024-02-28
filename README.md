@@ -1,4 +1,5 @@
-## Hi, I'm Paulo Costa! 👋 <div align="right">![](https://komarev.com/ghpvc/?username=pialo3434)</div>
+# Hi, I'm Paulo Costa! 👋 <p align="right">![](https://komarev.com/ghpvc/?username=pialo3434)</p>
+
 
 📌 I'm currently working as a software development <br><br>📌 I'm looking to collaborate on software creating such as websites or applications (desktop/mobile) <br><br>📌 My tech stack involves several languages and frameworks <br><br>📌 Ask me about application developing <br><br>📌 Fun fact - I am lazy so i will find the quickest solution to a problem regardless of how hard it is to get there <br><br> 
 
