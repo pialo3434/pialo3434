@@ -1,6 +1,6 @@
 <div>
   <h2 align="left"> Hi, I'm Paulo Costa! 👋</h2>
-  <p align="right" style="color: red;"><img src="https://komarev.com/ghpvc/?username=pialo3434" alt="views counter"></p>
+  <p align="right" style="color: red;"><img src="![](https://komarev.com/ghpvc/?username=pialo3434&color=red)" alt="views counter"></p>
 </div>
 
 📌 I'm currently working as a software development <br><br>📌 I'm looking to collaborate on software creating such as websites or applications (desktop/mobile) <br><br>📌 My tech stack involves several languages and frameworks <br><br>📌 Ask me about application developing <br><br>📌 Fun fact - I am lazy so i will find the quickest solution to a problem regardless of how hard it is to get there <br><br> 
