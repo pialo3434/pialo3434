@@ -1,8 +1,10 @@
-# Hi, I'm Paulo Costa! 👋
+<h1 style="display: flex; justify-content: space-between; align-items: center;">
+    Hi, I'm Paulo Costa! 👋
+    <div>
+        [![](https://visitcount.itsvg.in/api?id=pialo3434&icon=0&color=0)](https://visitcount.itsvg.in)
+    </div>
+</h1>
 
-<div align="right">
-  [![](https://visitcount.itsvg.in/api?id=pialo3434&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
 
 
 📌 I'm currently working as a software development <br><br>📌 I'm looking to collaborate on software creating such as websites or applications (desktop/mobile) <br><br>📌 My tech stack involves several languages and frameworks <br><br>📌 Ask me about application developing <br><br>📌 Fun fact - I am lazy so i will find the quickest solution to a problem regardless of how hard it is to get there <br><br> 
