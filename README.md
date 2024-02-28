@@ -1,9 +1,5 @@
-<h1 style="display: flex; justify-content: space-between; align-items: center;">
-    Hi, I'm Paulo Costa! 👋
-    <div>
-        [![](https://visitcount.itsvg.in/api?id=pialo3434&icon=0&color=0)](https://visitcount.itsvg.in)
-    </div>
-</h1>
+# Hi, I'm Paulo Costa! 👋 <div align="right">[![](https://visitcount.itsvg.in/api?id=pialo3434&icon=0&color=0)](https://visitcount.itsvg.in)</div>
+
 
 
 
