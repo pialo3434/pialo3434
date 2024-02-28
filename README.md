@@ -1,5 +1,6 @@
+<div>
 <h2 align="left"> Hi, I'm Paulo Costa! 👋</h2>  <p align="right">![](https://komarev.com/ghpvc/?username=pialo3434)</p>
-
+</div>
 
 
 
