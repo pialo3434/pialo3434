@@ -28,7 +28,9 @@
 </p>
 
 <div>
+  <div align="center">
   <h2>GitHub Stats:</h2>
+  </div>
   <img src="https://github-readme-stats.vercel.app/api?username=pialo3434&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pialo3434&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
