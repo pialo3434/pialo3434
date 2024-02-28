@@ -1,4 +1,4 @@
-# Hi, I'm Paulo Costa! 👋 <p align="right" style="margin-top: -0.3em;">![](https://komarev.com/ghpvc/?username=pialo3434)</p>
+# Hi, I'm Paulo Costa! 👋 <p>![](https://komarev.com/ghpvc/?username=pialo3434)</p>
 
 
 
