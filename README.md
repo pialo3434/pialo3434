@@ -1,5 +1,4 @@
-<br>
-# Hi, I'm Paulo Costa! 👋 <p align="right">![](https://komarev.com/ghpvc/?username=pialo3434)</p>
+<div> Hi, I'm Paulo Costa!</div> 👋 <p align="right">![](https://komarev.com/ghpvc/?username=pialo3434)</p>
 
 
 
