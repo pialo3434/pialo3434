@@ -1,5 +1,5 @@
 <div>
-  <h2 align="left"> Hi, I'm Paulo Costa!! 👋</h2>
+  <h3 align="left"> Hi, I'm Paulo Costa!! 👋</h3>
   <p align="right"><img src="https://komarev.com/ghpvc/?username=pialo3434" alt="views counter"></p>
 </div>
 
